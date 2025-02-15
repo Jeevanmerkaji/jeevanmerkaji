@@ -5,4 +5,4 @@ I'm a Software Developer by profession and a  machine learning researcher who is
 
 ## **Find me around the web** 🌐  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jeevan-m-s-074aa5149/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-green?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeevan-m-s-074aa5149/)  
