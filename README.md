@@ -5,3 +5,4 @@ I'm a Software Developer by profession and a  machine learning researcher who is
 
 ## **Find me around the web** 🌐  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
